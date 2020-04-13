@@ -4,7 +4,7 @@ package com.qf.product.service;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.qf.api.product.IProductTypeService;
 import com.qf.jpa.repository.ProductTypeRepository;
-import com.qf.v9.entity.TProductType;
+import com.qf.v9.entity.DO.TProductTypeDO;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.Resource;
@@ -18,7 +18,7 @@ public class ProductTypeService implements IProductTypeService {
     private ProductTypeRepository productTypeRepository;
 
     @Override
-    public List<TProductType> list(){
+    public List<TProductTypeDO> list(){
         return productTypeRepository.findALl();
     }
 

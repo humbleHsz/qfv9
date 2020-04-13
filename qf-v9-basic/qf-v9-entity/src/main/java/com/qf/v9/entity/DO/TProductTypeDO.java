@@ -1,4 +1,4 @@
-package com.qf.v9.entity;
+package com.qf.v9.entity.DO;
 
 
 import lombok.AllArgsConstructor;
@@ -15,7 +15,7 @@ import java.io.Serializable;
 @NoArgsConstructor
 @Table(name = "t_product_type")
 @Entity
-public class TProductType implements Serializable {
+public class TProductTypeDO implements Serializable {
 
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)

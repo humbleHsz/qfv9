@@ -1,4 +1,4 @@
-package com.qf.v9.entity;
+package com.qf.v9.entity.DO;
 
 
 import lombok.AllArgsConstructor;
@@ -17,7 +17,7 @@ import java.io.Serializable;
 @NoArgsConstructor
 @Table(name = "t_product_desc")
 @Entity
-public class TProductDesc implements Serializable {
+public class TProductDescDO implements Serializable {
 
   @Id
   private Long id;
