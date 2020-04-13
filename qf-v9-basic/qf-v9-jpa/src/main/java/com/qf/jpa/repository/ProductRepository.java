@@ -9,9 +9,9 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface ProductTypeRepository extends JpaRepository<TProductType,Long> {
+public interface ProductRepository extends JpaRepository<TProduct,Long> {
 
-    @Query(value = "select  * from t_product_type",nativeQuery = true)
-    List<TProductType> findALl();
 
+    @Query(value = "select * from t_product ",nativeQuery = true)
+    List<TProduct> listAllProduct();
 }

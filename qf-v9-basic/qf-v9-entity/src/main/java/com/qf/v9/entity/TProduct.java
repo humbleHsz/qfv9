@@ -20,19 +20,19 @@ import java.io.Serializable;
 public class TProduct implements Serializable {
 
   @Id
-  private Integer id;
+  private Long id;
   private String name;
-  private Integer price;
-  private Integer salePrice;
+  private Long price;
+  private Long salePrice;
   private String salePoint;
   private String image;
-  private Integer stock;
+  private Long stock;
   private Integer flag;
   private java.sql.Timestamp createTime;
   private java.sql.Timestamp updateTime;
-  private Integer createUser;
-  private Integer updateUser;
-  private Integer typeId;
+  private Long createUser;
+  private Long updateUser;
+  private Long typeId;
   private String typeName;
 
 

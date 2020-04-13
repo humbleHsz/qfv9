@@ -20,8 +20,8 @@ import java.io.Serializable;
 public class TProductDesc implements Serializable {
 
   @Id
-  private Integer id;
+  private Long id;
   private String pDesc;
-  private Integer productId;
+  private Long productId;
 
 }

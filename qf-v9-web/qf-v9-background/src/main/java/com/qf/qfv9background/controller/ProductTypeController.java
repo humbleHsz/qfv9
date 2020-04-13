@@ -19,10 +19,10 @@ import java.util.List;
 public class ProductTypeController {
 
    @Reference
-    private IProductTypeService productTypeService;
+    private IProductTypeService iProductTypeService;
 
     @GetMapping("/list")
     public List<TProductType> list(){
-        return productTypeService.list();
+        return iProductTypeService.list();
     }
 }

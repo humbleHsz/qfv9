@@ -19,8 +19,8 @@ public class TProductType implements Serializable {
 
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
-  private Integer id;
-  private Integer pid;
+  private Long id;
+  private Long pid;
   private String name;
 
 }
