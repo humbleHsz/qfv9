@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-product/pom.xml" />
         <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-index/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

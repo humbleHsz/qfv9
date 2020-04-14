@@ -424,6 +424,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -431,7 +432,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -459,7 +460,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.QfV9BackgroundApplication">
+  <component name="RunManager" selected="Spring Boot.JpaApplication">
     <configuration name="JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jpa" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.jpa.JpaApplication" />
@@ -470,6 +471,13 @@
     <configuration name="QfV9BackgroundApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="qf-v9-background" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv9background.QfV9BackgroundApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV9IndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v9-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv9index.QfV9IndexApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
