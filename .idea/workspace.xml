@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4001f4d3-21b7-44df-a672-5fa3e566186d" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/MultiUploadResultBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/ResultBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/config/MyWebAppConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/product/list.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-service/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-web/qf-v9-background/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-basic/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-api/qf-v9-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-web/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/FileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="75" column="37" lean-forward="true" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/config/MyWebAppConfigurer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qf-v9-api/qf-v9-product-api/src/main/java/com/qf/api/product/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/TProduct.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/TProductDesc.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/TProductType.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductTypeRepository.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/PageInfo.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DO/TProduct.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DTO/PageInfo.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/VO/ProductVO.java" />
+        <option value="$PROJECT_DIR$/qf-v9-api/qf-v9-product-api/src/main/java/com/qf/api/product/IProductService.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductDescRepository.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DO/TProductDO.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/src/main/java/com/qf/product/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/product/index.html" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/static/css/dashboard.css" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DTO/ResultBean.java" />
+        <option value="$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/MultiUploadResultBean.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/product/list.html" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/config/MyWebAppConfigurer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="v9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="v9" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="v9" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="DTO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="qfv9background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qfv9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qfv9" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-web" type="462c0819:PsiDirectoryNode" />
+              <item name="qf-v9-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.jpa.repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.QfV9BackgroundApplication">
+    <configuration name="JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.jpa.JpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV9BackgroundApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v9-background" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.qfv9background.QfV9BackgroundApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QfV9ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qf-v9-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.product.QfV9ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4001f4d3-21b7-44df-a672-5fa3e566186d" name="Default Changelist" comment="" />
+      <created>1586742613068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586742613068</updated>
+      <workItem from="1586742614964" duration="31001000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1586745339901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586745339907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1586773814815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586773814816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31001000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" sideWeight="0.5008944" side_tool="true" weight="0.21512248" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.21512248" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.09555556" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.35555556" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33222222" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.32960597" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" weight="0.32960597" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request.getSession().getServletContext().getRealPath(&quot;/resource&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.getSession().getServletContext().getRealPath(&quot;/upload&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>page.getContent()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iProductService.listAllProductToPage(pageIndex, pageSize);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iProductService.listAllProduct();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/JpaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-api/qf-v9-product-api/src/main/java/com/qf/api/product/IProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3400aae2-4807-41a8-b8ce-a1d4a793cc0c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4691661a-1ce0-472a-b947-b72b0bdce307/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductTypeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/src/main/java/com/qf/product/QfV9ProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/QfV9BackgroundApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/src/main/java/com/qf/product/service/ProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.2.6.RELEASE/spring-data-commons-2.2.6.RELEASE.jar!/org/springframework/data/domain/PageImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.2.6.RELEASE/spring-data-commons-2.2.6.RELEASE.jar!/org/springframework/data/domain/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DTO/PageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/VO/ProductVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DO/TProductTypeDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DO/TProductDescDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa/src/main/java/com/qf/jpa/repository/ProductDescRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-api/qf-v9-product-api/src/main/java/com/qf/api/product/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/ProductTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.5.RELEASE/spring-aop-5.2.5.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="883" column="16" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
+          <folding>
+            <element signature="e#37718#37719#0" expanded="true" />
+            <element signature="e#37754#37755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-entity/src/main/java/com/qf/v9/entity/DO/TProductDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service/src/main/java/com/qf/product/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/static/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="55" column="77" selection-start-line="55" selection-start-column="77" selection-end-line="55" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.5.RELEASE/spring-core-5.2.5.RELEASE.jar!/org/springframework/core/io/InputStreamSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1005" column="19" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/ResultBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/img/123.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/resources/templates/product/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="192" column="15" selection-start-line="192" selection-start-column="15" selection-end-line="192" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1087" column="15" selection-start-line="1087" selection-start-column="15" selection-end-line="1087" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-common/src/main/java/Util/MultiUploadResultBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="75" column="37" lean-forward="true" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background/src/main/java/com/qf/qfv9background/config/MyWebAppConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qf-v9-background</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
