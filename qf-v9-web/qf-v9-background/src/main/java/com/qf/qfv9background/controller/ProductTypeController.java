@@ -23,6 +23,7 @@ public class ProductTypeController {
 
     @GetMapping("/list")
     public List<TProductTypeDO> list(){
+
         return iProductTypeService.list();
     }
 }
