@@ -7,16 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="qf-v9-web" />
+        <module name="qf-v9-service" />
         <module name="qf-v9-product" />
         <module name="qf-v9-entity" />
         <module name="qf-v9-product-service" />
-        <module name="qf-v9-product-api" />
-        <module name="qf-v9-index" />
-        <module name="qf-v9-jpa" />
-        <module name="qf-v9-service" />
-        <module name="qf-v9-background" />
-        <module name="qf-v9-common" />
         <module name="jpa" />
+        <module name="qf-v9-common" />
+        <module name="qf-v9-product-api" />
+        <module name="qf-v9-background" />
+        <module name="qf-v9-jpa" />
+        <module name="qf-v9-index" />
       </profile>
     </annotationProcessing>
   </component>
