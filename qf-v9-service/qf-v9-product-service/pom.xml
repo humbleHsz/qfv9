@@ -53,12 +53,7 @@
             <artifactId>jpa</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>com.qf</groupId>
-            <artifactId>qf-v9-common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
+
         <dependency>
             <groupId>com.qf</groupId>
             <artifactId>qf-v9-common</artifactId>
@@ -70,6 +65,11 @@
             <artifactId>thymeleaf</artifactId>
             <version>3.0.11.RELEASE</version>
             <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.qf</groupId>
+            <artifactId>qf-v9-search-service</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
     </dependencies>

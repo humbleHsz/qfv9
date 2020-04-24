@@ -13,6 +13,7 @@
         <module>qf-v9-service</module>
         <module>qf-v9-web</module>
         <module>qf-v9-basic</module>
+        <module>qf-v9-temp</module>
     </modules>
 
 
