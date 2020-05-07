@@ -11,7 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @EnableDubbo
 @EnableJpaRepositories(basePackages = "com.qf.jpa.repository")
-@ComponentScan(basePackages = "com.qf.api.item")
+@ComponentScan(basePackages = {"com.qf.api.item","com.qf.qfv9itemservice.config","com.qf.qfv9itemservice.handler"})
 @EntityScan("com.qf.v9.entity")
 public class QfV9ItemServiceApplication {
 

@@ -8,6 +8,9 @@ import com.qf.api.search.ISearchService;
 import com.qf.v9.entity.DO.TProductDO;
 import com.qf.v9.entity.DTO.PageInfo;
 import com.qf.v9.entity.VO.ProductVO;
+import constant.RabbitMQConstant;
+import org.springframework.amqp.rabbit.core.RabbitTemplate;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -32,6 +35,10 @@ public class ProductController {
     @Reference
     private ItemService itemService;
 
+    @Autowired
+    private RabbitTemplate rabbitTemplate;
+
+
     @GetMapping("/list")
     public String list(Model model){
         List<TProductDO> list = iProductService.listAllProduct();
@@ -51,8 +58,14 @@ public class ProductController {
         Long id = iProductService.add(productVO);
 
         //让搜索服务同步这个数据
-        iSearchService.updateById(id);
-        itemService.createHtmlById(id);
+//        iSearchService.updateById(id);
+//        itemService.createHtmlById(id);
+
+
+        //发送消息到交换机即可
+        rabbitTemplate.convertAndSend(RabbitMQConstant.BACKGROUND_EXCHANGE,"product.add",id);
+        rabbitTemplate.convertAndSend(RabbitMQConstant.ITEM_EXCHANGE,"html.create",id);
+
         return "redirect:/product/list/1/3";
     }
 

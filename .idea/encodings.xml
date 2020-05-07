@@ -3,9 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/qf-v9-basic/qf-v9-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-service/qf-v9-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v9-service/qf-v9-mail-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-service/qf-v9-product-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-service/qf-v9-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v9-temp/email" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-temp/freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v9-temp/rabbitmq-springboot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-web/qf-v9-background" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-web/qf-v9-index" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qf-v9-web/qf-v9-search" charset="UTF-8" />

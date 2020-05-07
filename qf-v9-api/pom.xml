@@ -12,6 +12,7 @@
         <module>qf-v9-product-api</module>
         <module>qf-v9-search-api</module>
         <module>qf-v9-item-api</module>
+        <module>qf-v9-email-api</module>
     </modules>
 
     <dependencies>

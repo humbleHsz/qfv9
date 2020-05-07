@@ -18,6 +18,10 @@
         <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-search-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-v9-temp/freemarker/pom.xml" />
         <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v9-temp/rabbitmq-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v9-temp/qf-v9-email/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v9-temp/email/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-v9-service/qf-v9-mail-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

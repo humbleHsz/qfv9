@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EnableDubbo
-@ComponentScan({"com.qf.api.product","com.qf.qfv9background.controller"})
+@ComponentScan({"com.qf.api.product","com.qf.qfv9background.controller","com.qf.qfv9background.config"})
 public class QfV9BackgroundApplication {
 
     public static void main(String[] args) {

@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @EnableDubbo
 @EnableJpaRepositories(basePackages = "com.qf.jpa.repository")
-@ComponentScan(basePackages = "com.qf.api.search")
+@ComponentScan( basePackages = {"com.qf.api.search","com.qf.qfv9searchservice.config","com.qf.qfv9searchservice.handler"})
 @EntityScan("com.qf.v9.entity")
 public class QfV9SearchServiceApplication {
 
