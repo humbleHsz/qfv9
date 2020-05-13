@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-data-redis" />
         <module name="rabbitmq-java" />
-        <module name="qf-v9-service" />
         <module name="qf-v9-web" />
         <module name="qf-v9-item-service" />
         <module name="qf-v9-search-service" />
@@ -16,10 +16,12 @@
         <module name="qf-v9-search" />
         <module name="qf-v9-index" />
         <module name="email" />
+        <module name="jedis" />
         <module name="qf-v9-background" />
+        <module name="freemarker" />
         <module name="qf-v9-search-api" />
         <module name="qf-v9-product-service" />
-        <module name="freemarker" />
+        <module name="qf-v9-service" />
         <module name="rabbitmq-springboot" />
         <module name="qf-v9-entity" />
         <module name="qf-v9-mail-service" />
