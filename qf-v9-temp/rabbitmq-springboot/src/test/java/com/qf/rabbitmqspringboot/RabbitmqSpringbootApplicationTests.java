@@ -6,11 +6,14 @@ import com.qf.rabbitmqspringboot.publish.Sender;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.redis.core.RedisTemplate;
 
 @SpringBootTest
 class RabbitmqSpringbootApplicationTests {
 
 
+	@Autowired
+	private RedisTemplate redisTemplate;
 
 	@Autowired
 	private com.qf.rabbitmqspringboot.publish.Sender sender;
@@ -20,7 +23,9 @@ class RabbitmqSpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
-		sender.send("整合成功");
+
+		redisTemplate.opsForValue().set("v1","k1");
+		System.out.println(redisTemplate.opsForValue().get("v1"));
 	}
 
 

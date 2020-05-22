@@ -13,6 +13,7 @@
         <module>qf-v9-search-api</module>
         <module>qf-v9-item-api</module>
         <module>qf-v9-email-api</module>
+        <module>qf-v9-user-api</module>
     </modules>
 
     <dependencies>

@@ -16,20 +16,28 @@
         <module name="qf-v9-search" />
         <module name="qf-v9-index" />
         <module name="email" />
+        <module name="freemarker" />
         <module name="jedis" />
         <module name="qf-v9-background" />
-        <module name="freemarker" />
+        <module name="qf-v9-user-api" />
         <module name="qf-v9-search-api" />
         <module name="qf-v9-product-service" />
+        <module name="qf-v9-user-service (1)" />
         <module name="qf-v9-service" />
         <module name="rabbitmq-springboot" />
         <module name="qf-v9-entity" />
         <module name="qf-v9-mail-service" />
         <module name="qf-v9-common" />
+        <module name="qf-v9-user-service" />
+        <module name="qf-v9-sso" />
         <module name="qf-v9-jpa" />
         <module name="qf-v9-item-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qf-v9-user-service (1)" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -43,7 +51,11 @@
       <module name="qf-v9-product-service" options="-parameters" />
       <module name="qf-v9-search" options="-parameters" />
       <module name="qf-v9-search-service" options="-parameters" />
+      <module name="qf-v9-sso" options="-parameters" />
+      <module name="qf-v9-user-service" options="-parameters" />
+      <module name="qf-v9-user-service (1)" options="-parameters" />
       <module name="rabbitmq-springboot" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
     </option>
   </component>
 </project>
